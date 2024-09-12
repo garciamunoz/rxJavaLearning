@@ -3,7 +3,7 @@ package com.home.rxjava;
 import io.reactivex.rxjava3.core.Observable;
 
 public class ErrorManagement {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
             //Aqui se viene el rico codigo de manejo de errores
             // Se declara un Observable
         Observable<Integer> observable= Observable.just(1,2,3,4,5);
@@ -19,5 +19,5 @@ public class ErrorManagement {
                 );
 
 
-    }
+    }*/
 }
