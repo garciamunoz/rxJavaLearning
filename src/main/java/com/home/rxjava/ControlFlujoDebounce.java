@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class ControlFlujoDebounce {
 
-    public static void main(String[] args) throws InterruptedException{
+    /*public static void main(String[] args) throws InterruptedException{
         //Aqui se ejemplifica el uso de debounce
 
         Observable observable = Observable.create( emitter ->{
@@ -25,5 +25,5 @@ public class ControlFlujoDebounce {
                 .subscribe(System.out::println);
 
 
-    }
+    }*/
 }
